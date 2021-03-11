@@ -1,0 +1,22 @@
+.body_background 
+{
+    background-image: url("https://drive.google.com/file/d/1-hMfzjM02r_h02NDgkQk9WmFTB-ZErBt/view");
+    background-position: center;
+    background-size: cover;
+}
+#myCanvas {
+    border:2px solid #000000;
+    background-color: aliceblue;
+    height: 900px;
+    width: 1500px;
+}
+h3 {
+    background-color: coral;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 25px;
+}
+h2 {
+    background-color: darkgoldenrod;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40px;
+}
